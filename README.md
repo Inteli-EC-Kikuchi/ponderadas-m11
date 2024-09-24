@@ -8,10 +8,11 @@ Construção de uma ALU utilizando o software Digital.
 
 ## Ponderada 2 - Visão computacional com hardware embarcado
 
-Docs em breve...
+Detecção de pessoas utilizando o ESP32-CAM e o TensorFlow Lite.
 
-Links que podem ser úteis para a realização da ponderada 2:
-    - https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
+Links utilizados para a realização da ponderada 2:
     - https://www.instructables.com/ESP32-CAM-Person-Detection-Expreiment-With-TensorF/
 
 ![Nicola2](./ponderada2/Nicola2.webp)
+
+![Vídeo de demondtração](https://youtu.be/t2okPBMkaIk)
