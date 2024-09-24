@@ -15,4 +15,4 @@ Links utilizados para a realização da ponderada 2:
 
 ![Nicola2](./ponderada2/Nicola2.webp)
 
-![Vídeo de demondtração](https://youtu.be/t2okPBMkaIk)
+Vídeo de demonstração: https://youtu.be/t2okPBMkaIk
